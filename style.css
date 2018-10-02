@@ -1,0 +1,22 @@
+#conteneur { display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content:center;
+max-height:100%;
+max-width :100%;
+
+}
+
+.element
+{border: solid 1px;
+  box-sizing: inherit;
+  height: 100%;
+  width: 110%;
+  max-width: 100px;
+  display: flex;
+  justify-content: center;
+margin : 2px;
+padding: 30px;
+
+}
+p{text-align: justify;}
